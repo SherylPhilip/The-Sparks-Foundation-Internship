@@ -6,3 +6,8 @@ To predict the score of a student based on the number of hours studied, using Li
 What will be predicted score if a student studies for 9.25 hrs/ day?
 
 Data can be found on : https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv
+
+Task 2 : Prediction using Unsupervised ML
+Problem Statement: From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+
+Data can be found at : https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view
